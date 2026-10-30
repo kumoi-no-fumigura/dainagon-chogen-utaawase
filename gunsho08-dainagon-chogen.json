@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/dainagon-chogen-utaawase",
  "yomi": "ちょうげんにねんだいなごんけうたあわせ",
  "category": "歌合",
- "description": null,
+ "description": {
+  "kind": "歌合（十番）",
+  "era": "長元2年（1029）",
+  "author": "主催 藤原斉信",
+  "desc": "大納言藤原斉信の家で催された十番の歌合。夏衣・山吹・藤・卯花・竹・遣水など初夏の題を一番ずつ番え、勝負を付す。"
+ },
  "editions": [
   {
    "pid": "1879502",
